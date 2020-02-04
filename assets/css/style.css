@@ -538,7 +538,7 @@ a.rm-btn {
 }
 
 .section-title p {
-	font-size: 16px;
+	font-size: 20px;
 	line-height: 28px;
 	color: #666;
 	font-weight: 300;
@@ -680,7 +680,7 @@ a.rm-btn:hover {
 }
 
 .hero-content .hero-text p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 26px;
     color: #f2f4f5;
     letter-spacing: 0px;
@@ -794,7 +794,7 @@ a.hero-btn:hover {
     letter-spacing: 0px;
     font-weight: 600;
     line-height: 40px;
-    margin: 15px auto;
+    margin: 0px auto;
 }
 
 .single-features .sf-text p {
@@ -1503,7 +1503,7 @@ a.pricing-btn {
 }
 .single-testimonial:hover .st-icon i{color:#5d6eef;}
 .single-testimonial p {
-	padding: 20px;
+	padding: 2px;
 	font-size: 16px;
 	line-height: 24px;
 	font-weight: 400;
@@ -2014,3 +2014,13 @@ a.scrl-top-btn {
     font-weight: 300;
 }
 /*============== End Footer CSS ==============*/
+
+.tozomt {
+    align-items: center;
+}
+
+.img0 {
+    width: 20%;
+    padding-left: 40%;
+    padding-right: 40%;
+}
