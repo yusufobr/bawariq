@@ -1512,6 +1512,7 @@ a.pricing-btn {
     position: relative;
     background-color: #f5f7fc;
     padding: 15px;
+    text-align: center;
 }
 
 .single-testimonial .st-info h4 {
