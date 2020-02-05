@@ -27,6 +27,12 @@ Version      : 1.0
 =============================================================*/
 
 
+@font-face {
+    font-family: helveticaneuelt; 
+    src: url('helveticaneuelt-arabic-55-roman.ttf'); 
+
+}
+
 /*----------------------------------------*/
 /*  1. Theme default CSS
 /*----------------------------------------*/
@@ -2007,7 +2013,7 @@ a.scrl-top-btn {
 
 .copyright-text {
     position: relative;
-    text-align: center;
+    text-align: center;.
     background-color: #323d50;
     padding: 15px 0px;
 }
@@ -2029,8 +2035,3 @@ a.scrl-top-btn {
     padding-right: 40%;
 }
 
-@font-face {
-    font-family: helveticaneuelt; 
-    src: url('/assets/fonts/helveticaneuelt-arabic-55-roman.ttf'); 
-
-}
