@@ -231,7 +231,7 @@ Table Of Contents
 */
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'helveticaneuelt' , sans-serif;
 }
 
 h1,
@@ -241,7 +241,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'helveticaneuelt', sans-serif;
     font-weight: 700;
     color: #000;
     letter-spacing: 1.5px;
@@ -254,7 +254,7 @@ h4 a,
 h5 a,
 h6 a {
     font-weight: inherit;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'helveticaneuelt' , sans-serif;
 }
 
 h1 {
@@ -294,7 +294,7 @@ h6 {
 }
 
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'helveticaneuelt' , sans-serif;
     font-size: 14px;
     font-weight: normal;
     letter-spacing: 0;
@@ -307,7 +307,7 @@ p img {
 }
 
 span {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'helveticaneuelt' , sans-serif;
 }
 
 
@@ -332,7 +332,7 @@ small {
 
 blockquote {
     border-left: 0 none;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'helveticaneuelt' , sans-serif;
     margin: 10px 0;
     padding-left: 40px;
     position: relative;
@@ -394,7 +394,7 @@ abbr:hover {
 a,
 a:visited {
     text-decoration: none;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'helveticaneuelt' , sans-serif;
     font-weight: normal;
     font-size: 12px;
     color: #111;
@@ -803,6 +803,7 @@ a.hero-btn:hover {
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
+    margin-top: 20px;
 }
 
 .single-features .sf-text a.sf-btn {
@@ -2026,4 +2027,10 @@ a.scrl-top-btn {
     width: 20%;
     padding-left: 40%;
     padding-right: 40%;
+}
+
+@font-face {
+    font-family: helveticaneuelt; 
+    src: url('/assets/fonts/helveticaneuelt-arabic-55-roman.ttf'); 
+
 }
