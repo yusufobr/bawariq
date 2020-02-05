@@ -284,6 +284,8 @@ h4 {
 h5 {
     font-size: 16px;
     line-height: 24px;
+    letter-spacing: 0;
+    margin: 8%;
 }
 
 h6 {
@@ -1602,7 +1604,7 @@ a.pricing-btn {
 	text-align: center;
 	transition: .5s ease;
 	line-height: 76px;
-	margin-bottom: 30px;
+	margin-right: 35%;
 }
 .single-hww .sw-icon i {
     font-size: 30px;
@@ -1801,7 +1803,7 @@ a.pricing-btn {
     letter-spacing: 0px;
     font-size: 16px;
     background-color: #fff;
-    text-align: left;
+    text-align: right;
 }
 
 .contact-form form.cf 
